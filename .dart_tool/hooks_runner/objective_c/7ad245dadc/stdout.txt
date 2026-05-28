@@ -1,0 +1,62 @@
+Running `(cd /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; TMPDIR=/var/folders/tc/18gbg3dd1md9pj4vgm180m200000gn/T/ PATH=/Users/mdalmominmostafa/.antigravity/antigravity/bin:/opt/homebrew/lib/ruby/gems/3.2.0/bin:/Users/mdalmominmostafa/.cargo/bin:/Users/mdalmominmostafa/.nvm/versions/node/v18.17.0/bin:/opt/homebrew/opt/ruby/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/opt/homebrew/bin:/opt/homebrew/bin:/opt/homebrew/Caskroom/flutter/3.3.9/flutter/.pub-cache/bin:/Applications/Postgres.app/Contents/Versions/15/bin:/Users/mdalmominmostafa/.pub-cache/bin HOME=/Users/mdalmominmostafa /opt/homebrew/Caskroom/flutter/3.7.7/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/package_config.json /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/objective_c/7ad245dadc/hook.dill --config=/Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/objective_c/7ad245dadc/input.json )`.
+INFO: 2026-05-25 12:11:35.076098: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-25 12:11:35.229907: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-25 12:11:35.245707: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-25 12:11:35.246082: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.c -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+INFO: 2026-05-25 12:11:35.246312: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/test/util.c -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/test/util.c.o
+
+INFO: 2026-05-25 12:11:35.246503: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-25 12:11:35.246645: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o
+
+INFO: 2026-05-25 12:11:35.246758: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+INFO: 2026-05-25 12:11:35.246861: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/ns_number.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o
+
+INFO: 2026-05-25 12:11:35.246964: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+INFO: 2026-05-25 12:11:35.247110: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-25 12:11:35.397546: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o
+
+INFO: 2026-05-25 12:11:35.397935: 
+INFO: 2026-05-25 12:11:35.397965: 
+INFO: 2026-05-25 12:11:35.397978: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-25 12:11:35.398908: 
+INFO: 2026-05-25 12:11:35.398933: 
+INFO: 2026-05-25 12:11:35.398943: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/test/util.c.o
+
+INFO: 2026-05-25 12:11:35.408921: 
+INFO: 2026-05-25 12:11:35.408997: 
+INFO: 2026-05-25 12:11:35.409026: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o
+
+INFO: 2026-05-25 12:11:35.416231: 
+INFO: 2026-05-25 12:11:35.416270: 
+INFO: 2026-05-25 12:11:35.416281: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o
+
+INFO: 2026-05-25 12:11:35.730172: 
+INFO: 2026-05-25 12:11:35.730215: 
+INFO: 2026-05-25 12:11:35.730226: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o
+
+INFO: 2026-05-25 12:11:35.740872: 
+INFO: 2026-05-25 12:11:35.740907: 
+INFO: 2026-05-25 12:11:35.740916: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o
+INFO: 2026-05-25 12:11:35.740955: 
+INFO: 2026-05-25 12:11:35.740966: 
+INFO: 2026-05-25 12:11:35.740974: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-25 12:11:35.758083: 
+INFO: 2026-05-25 12:11:35.758114: 
+INFO: 2026-05-25 12:11:35.758123: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-25 12:11:35.758454: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk -target arm64-apple-darwin -mmacos-version-min=13 /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/include/dart_api_dl.c.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.c.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/test/util.c.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/input_stream_adapter.m.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c.m.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/observer.m.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/ns_number.m.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/protocol.m.o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/obj/src/objective_c_bindings_generated.m.o -o /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+
+INFO: 2026-05-25 12:11:35.969828: 
+INFO: 2026-05-25 12:11:35.969887: 
+INFO: 2026-05-25 12:11:35.969899: Generated /Users/mdalmominmostafa/Developer/gym_buddy/app/.dart_tool/hooks_runner/shared/objective_c/build/7ad245dadc/objective_c.dylib
+

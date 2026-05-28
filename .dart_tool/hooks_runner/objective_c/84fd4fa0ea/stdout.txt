@@ -1,0 +1,53 @@
+Running `(cd /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/mdalmominmostafa/Library/Android/sdk TMPDIR=/var/folders/tc/18gbg3dd1md9pj4vgm180m200000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Users/mdalmominmostafa/.antigravity/antigravity/bin:/opt/homebrew/lib/ruby/gems/3.2.0/bin:/Users/mdalmominmostafa/.cargo/bin:/Users/mdalmominmostafa/.nvm/versions/node/v18.17.0/bin:/opt/homebrew/opt/ruby/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/opt/homebrew/bin:/opt/homebrew/Caskroom/flutter/3.3.9/flutter/.pub-cache/bin:/Applications/Postgres.app/Contents/Versions/15/bin:/Users/mdalmominmostafa/.pub-cache/bin HOME=/Users/mdalmominmostafa /opt/homebrew/Caskroom/flutter/3.7.7/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/package_config.json /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/objective_c/84fd4fa0ea/hook.dill --config=/Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/objective_c/84fd4fa0ea/input.json )`.
+INFO: 2026-05-29 00:59:46.022423: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-29 00:59:46.233504: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-05-29 00:59:46.250250: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-29 00:59:46.250857: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-29 00:59:46.250990: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o
+
+INFO: 2026-05-29 00:59:46.251095: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o
+
+INFO: 2026-05-29 00:59:46.251402: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o
+INFO: 2026-05-29 00:59:46.251530: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/mdalmominmostafa/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-29 00:59:46.446290: 
+INFO: 2026-05-29 00:59:46.446430: 
+INFO: 2026-05-29 00:59:46.446490: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.c.o
+INFO: 2026-05-29 00:59:46.446813: 
+INFO: 2026-05-29 00:59:46.446835: 
+INFO: 2026-05-29 00:59:46.446844: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-05-29 00:59:46.453480: 
+INFO: 2026-05-29 00:59:46.453520: 
+INFO: 2026-05-29 00:59:46.453531: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o
+
+INFO: 2026-05-29 00:59:46.461104: 
+INFO: 2026-05-29 00:59:46.461150: 
+INFO: 2026-05-29 00:59:46.461161: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o
+
+INFO: 2026-05-29 00:59:46.635577: 
+INFO: 2026-05-29 00:59:46.635668: 
+INFO: 2026-05-29 00:59:46.635699: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o
+
+INFO: 2026-05-29 00:59:46.653775: 
+INFO: 2026-05-29 00:59:46.653829: 
+INFO: 2026-05-29 00:59:46.653841: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o
+INFO: 2026-05-29 00:59:46.654390: 
+INFO: 2026-05-29 00:59:46.654442: 
+INFO: 2026-05-29 00:59:46.654454: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-05-29 00:59:46.674763: 
+INFO: 2026-05-29 00:59:46.674800: 
+INFO: 2026-05-29 00:59:46.674812: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-05-29 00:59:46.675115: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.5.sdk -target arm64-apple-ios-simulator -mios-version-min=13 /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.c.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o -o /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib
+
+INFO: 2026-05-29 00:59:46.913645: 
+INFO: 2026-05-29 00:59:46.913736: ld: warning: -undefined dynamic_lookup is deprecated on iOS-simulator
+
+INFO: 2026-05-29 00:59:46.913756: Generated /Users/mdalmominmostafa/Developer/gym_buddy_flutter_app/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib
+
